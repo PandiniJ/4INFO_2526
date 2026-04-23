@@ -5,3 +5,4 @@ number = numbers.sort((a,b) => a - b ) ;
 let [one, two, three, four, five, six] = number;
 
 console.log(`One: ${one}, Two: ${two}, Three: ${three}, Four: ${four}, Five: ${five}, Six: ${six}`);
+
